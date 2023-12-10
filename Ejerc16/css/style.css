@@ -1,0 +1,20 @@
+table, tr, td, th{
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	text-align: center;
+}
+th{
+	background-color: #3e9655;
+	color:brown;
+}
+td{
+	background-color: #fffdbf;
+	color: brown;
+}
+.tit{
+	background-color: #ffd28a;
+}
+.subtit{
+	background-color: #fffb7d;
+}

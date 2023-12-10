@@ -1,0 +1,27 @@
+
+body{
+	background-image: url("../img/pinguino.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+table{
+	width: 70%;
+	margin-top: 20%;
+	margin-left: auto;
+	margin-right: auto;
+}
+table, tr, td{
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	
+}
+th{
+	background-color: white;
+	color:black;
+	font-weight: bold;
+}
+td{
+	text-align: center;
+	background-color: #fffd8a;
+}
