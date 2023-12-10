@@ -1,0 +1,79 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    background-image: url("../img/ac.jpg");
+}
+#contenedor{
+    
+    flex-direction: column;
+}
+.filas{
+    display: flex;
+    flex-direction: row;
+}
+.exterior{
+    margin: 20px 20px 20px 20px;
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+}
+.interior{
+    margin: 20px;
+    width: 80%;
+    height: 80%;
+}
+#d1{
+    background-image: url("../img/back_mantel.jpg");
+    background-clip: content-box;
+}
+#d3{
+    background-image: url("../img/back_mantel.jpg");
+    background-size: cover;
+}
+#d4, #d6, #d7, #d8{
+    background-color: #f2f1ef;
+}
+#d5{
+    background-image: url("../img/dh.jpg");
+    background-size: cover;
+}
+#d9{
+    background: -moz-linear-gradient(left, rgba(202,249,80,1) 0%, rgba(202,249,80,1) 5%, rgba(158,191,78,1) 41%, rgba(128,152,74,1) 60%, rgba(100,120,71,1) 82%, rgba(100,120,71,1) 100%);
+}
+#d10{
+    background: -moz-linear-gradient(top, rgba(221,159,136,1) 0%, rgba(221,159,136,1) 5%, rgba(180,100,73,1) 48%, rgba(133,50,18,1) 74%, rgba(133,50,18,1) 100%);
+}
+#d11{
+    background: -moz-linear-gradient(top, rgba(221,227,194,1) 0%, rgba(221,227,194,1) 5%, rgba(159,186,141,1) 41%, rgba(110,153,97,1) 60%, rgba(77,132,69,1) 82%, rgba(77,132,69,1) 100%);
+}
+#d12{
+    background: -moz-linear-gradient(top, rgba(164,179,87,0.24) 0%, rgba(51,117,45,1) 100%);
+}
+#int1{
+    background-image: url("../img/back_mantel.jpg");
+}
+#int2{
+    background-image: url("../img/back_mantel.jpg");
+    background-size: cover;
+}
+#int3{
+    background-image: url("../img/dh.jpg");
+    background-size: cover;
+}
+#int4{
+    height: 100%;
+    margin-top: 25%;  
+    background-image: url("../img/dh_2.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;   
+}
+#int5{
+    height: 100%;
+    margin: 0% 25% 0% 25%;
+    background-image: url("../img/dh_3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
