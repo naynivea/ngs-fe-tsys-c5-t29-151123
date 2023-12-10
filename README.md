@@ -13,6 +13,6 @@ https://naynivea.github.io/ngs-fe-tsys-c5-t29-151123/Ejerc16
 
 https://naynivea.github.io/ngs-fe-tsys-c5-t29-151123/Ejerc17
 
-https://naynivea.github.io/ngs-fe-tsys-c5-t29-151123/Ejerc17
+https://naynivea.github.io/ngs-fe-tsys-c5-t29-151123/Ejerc18
 
 
