@@ -1,0 +1,19 @@
+table, tr, td, th{
+	
+}
+table{
+	background-color: #09839e;
+}
+th{
+	background-color: #073d2d;
+	color:white;
+}
+.tr1{
+	background-color: #42c99f;
+}
+.tr2{
+	background-color: #8afff1;
+}
+.center{
+	text-align: center;
+}
